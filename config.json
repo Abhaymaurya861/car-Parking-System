@@ -1,0 +1,8 @@
+{
+  "currencySymbol": "$",
+  "hourlyRate": 20.0,
+  "gracePeriodMinutes": 10,
+  "minimumChargeHours": 1,
+  "applyVehicleMultiplier": true,
+  "totalSlots": 24
+}
